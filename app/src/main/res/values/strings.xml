@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="api_key">"?api_key=PUT_YOUR_API_HERE"</string>
+    <string name="movies_base_url">http://api.themoviedb.org/3</string>
+    <string name="popular_movies">/movie/popular</string>
+    <string name="movie_top_rated">/movie/top_rated</string>
+    <string name="poster_base_url">http://image.tmdb.org/t/p/</string>
+    <string name="poster_size_w342">w342</string>
+    <string name="poster_size_w500">w500</string>
+    <string name="EXTRA_MOVIE">EXTRA_MOVIE</string>
+    <string name="movies_list_preference">movies_list_preference</string>
+    <string name="not_connected_refresh">You are not connected\nTap to refresh</string>
+    <string name="top_rated_movies">Top rated movies</string>
+    <string name="popular_movies_Menu_Item">Popular movies</string>
+    <string name="release_date_label">Release date :</string>
+    <string name="description_label">Description :</string>
+    <string name="vote_average_label">Vote average :</string>
+    <string name="movie_poster_contentDesc">Movie poster</string>
+</resources>
